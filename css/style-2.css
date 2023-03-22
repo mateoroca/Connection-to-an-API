@@ -1,0 +1,32 @@
+
+#main-box{
+    font-style: italic;
+    background:#b3b1ac;
+    width:75%;
+    height: 34rem;
+    margin-left:10rem;
+    display:inline-block;
+    text-align:center;
+    padding:20px 0;
+    color:#000000;
+}
+
+.container-user-info{
+    
+
+    background:#7bdc6a;
+    width:90%;
+    margin:5px;
+    display:inline-block;
+    text-align:center;
+    padding:20px 0;
+    color: #fff;
+    
+
+}
+
+#title{
+    font-size: x-large;
+    font-style:unset;
+
+}

@@ -1,0 +1,44 @@
+
+
+#main-box{
+    
+    font-style: italic;
+    background:#b3b1ac;
+    width:75%;
+    height: 34rem;
+    margin-left:10rem;
+    display:inline-block;
+    text-align:center;
+    padding:20px 0;
+    color:#000000;
+
+}
+
+
+.container{
+    
+        background:#4A88F4;
+        width:50%;
+        margin:5px;
+        display:inline-block;
+        text-align:center;
+        padding:20px 0;
+        color:#fff;
+      
+      
+}
+
+.container:hover {
+    background:#302F2F;
+    
+}
+
+.container{
+    cursor:pointer;
+}
+
+#title{
+    font-size: x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
